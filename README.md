@@ -2,7 +2,7 @@
 
 Welcome to the Habitat Sample Node App!
 
-### Follow the demo instructions
+### Follow the demo instructions - test update
 
 For the full experience, check out the [Habitat Demo instructions](https://www.habitat.sh/demo/) on the habitat.sh website. This will walk you through getting setup on the Habitat Builder web app and publishing this sample app to Docker Hub.
 
